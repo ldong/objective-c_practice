@@ -3,8 +3,8 @@
 Lets talk about Objective-C
 
 ## Notes
-+ class method
-- instance method
+* `+` class method
+* `-` instance method
 
 ```objective-c
 NSString *message= @"Hello World";
